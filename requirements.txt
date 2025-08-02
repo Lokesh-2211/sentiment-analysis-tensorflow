@@ -1,0 +1,2 @@
+# python libraries
+keras-tuner==1.4.5
